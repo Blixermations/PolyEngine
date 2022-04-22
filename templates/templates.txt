@@ -1,3 +1,0 @@
-Templates.
-
-Only use them in visual studio.
